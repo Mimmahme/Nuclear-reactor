@@ -5,4 +5,5 @@ if name==True:
     print("Starting the nuclear project")
 else:
     print("Wrong")
-    
+else:
+    print("What")    
